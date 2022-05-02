@@ -29,7 +29,7 @@
 
 [<img src="https://cdn0.iconfinder.com/data/icons/scrum-team-symbols/220/content_design-512.png" width="60" height="60"/>](https://cdn0.iconfinder.com/data/icons/scrum-team-symbols/220/content_design-512.png "Effective writing of training guides, training and delivery")
 [<img src="https://pacific-international.com/wp-content/uploads/2021/07/icon-blue-leadership@3x.png" width="50" height="50"/>](https://pacific-international.com/wp-content/uploads/2021/07/icon-blue-leadership@3x.png "Leadership")
-[<img src="https://lh3.googleusercontent.com/C_Ty0alIJNrRQz5pNFmgA1rsRnhZDj67eVCCHXoJFFot0FQEZydARPRKbBADyHQoA0_Dj6gLITCshiJq6C-H-QM_U2mJwJZVLOQPnwvCL2RerGMEhw0" width="50" height="50"/>](https://lh3.googleusercontent.com/C_Ty0alIJNrRQz5pNFmgA1rsRnhZDj67eVCCHXoJFFot0FQEZydARPRKbBADyHQoA0_Dj6gLITCshiJq6C-H-QM_U2mJwJZVLOQPnwvCL2RerGMEhw0 "Efficient Googling for information")
+[<img src="https://lh3.googleusercontent.com/C_Ty0alIJNrRQz5pNFmgA1rsRnhZDj67eVCCHXoJFFot0FQEZydARPRKbBADyHQoA0_Dj6gLITCshiJq6C-H-QM_U2mJwJZVLOQPnwvCL2RerGMEhw0" width="50" height="50"/>](https://lh3.googleusercontent.com/C_Ty0alIJNrRQz5pNFmgA1rsRnhZDj67eVCCHXoJFFot0FQEZydARPRKbBADyHQoA0_Dj6gLITCshiJq6C-H-QM_U2mJwJZVLOQPnwvCL2RerGMEhw0 "Efficient Googling for research, information, and answers")
 [<img src="https://www.cdc.gov/ncbddd/hemoglobinopathies/images/teamwork-Shadow.png" width="50" height="50"/>](https://www.cdc.gov/ncbddd/hemoglobinopathies/images/teamwork-Shadow.png "Stakeholder engagement")
 
 
