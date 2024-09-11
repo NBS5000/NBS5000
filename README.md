@@ -8,12 +8,8 @@ I'm a web developer.
 
 I've been doing it for a while now, about 10 years or so, and I love what I do.﻿
 
-I'm also a big Star Wars nerd!
+I'm back in the job market and am looking for an organisation that I can really throw myself in to and make a difference.
 
-🌍  I'm based on the Central Coast, NSW, Australia
+Could that be you? Maybe.
 
-🔶  Check out [My Site](https://steve.darthsteve.au/)
-
-📧  You can contact me at [nbs5000.dev@gmail.com](mailto:nbs5000.dev@gmail.com)
-
-<a href="https://www.github.com/nbs5000" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/nbs5000?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+If you're interested in working with me, check out [My Site](https://steve.darthsteve.au/) or email me at [nbs5000.dev@gmail.com](mailto:nbs5000.dev@gmail.com)
